@@ -1,4 +1,6 @@
-Star CATcher
+<h1>Star CATcher</h1>
 =======
 
-Star CATcher is a incomplete mobile game for Android and iOS, was developed using Corona SDK.
+<b>Star CATcher</b> is a incomplete mobile game for Android and iOS, was developed using <b>Corona SDK</b>.
+
+Creative Commons Attribution
